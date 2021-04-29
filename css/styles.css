@@ -49,4 +49,6 @@ figure {
 
 figcaption {
   text-align: center;
+  background-color: #303;
+  /* color: black; */
 }
