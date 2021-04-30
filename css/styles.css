@@ -22,7 +22,7 @@ div {
   width: 100%;
   height: 20em;
   background-color: #030;
-  background-image: url("/img/orator.jpg");
+  background-image: url("https://dciforks.github.io/image-basics/img/orator.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
