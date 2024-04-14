@@ -1,2 +1,2 @@
-# [image-basics](https://dciforks.github.io/image-basics/)
+# [image-basics](https://funforks.github.io/image-basics/)
 ^^^ Click for preview
